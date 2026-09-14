@@ -12,6 +12,8 @@ Afin de determiner le nombre de fichiers .cppet .h, j'ai utiliser les commandes 
 4337>2641.   
 # lors de la comparaison, on constate que l'ecart est tres grand entre le nombre de fichiers trouvés et ceux contenus dans le chapitre
 
+# Les autres fichiers
+On a 60 fichiers .hpp et 311 fichiers .c
 # Nombre de lignes de code
 ici j'ai utilisé codeline counter et j'ai obtenu 1342559>1193385.
 
