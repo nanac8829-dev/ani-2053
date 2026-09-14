@@ -5,7 +5,7 @@ ConsoleApp : 98
 WindowedApp : 55
 Le total est de 273 projets.
 Le nombre de toolchains est de : 5
-Le fichier de démarrage est : Sandbox
+Le projet de démarrage est : Sandbox
 Le fichier racine au workspace est : Nkentseu.jenga
 
 # le resultat du jenga info est :
