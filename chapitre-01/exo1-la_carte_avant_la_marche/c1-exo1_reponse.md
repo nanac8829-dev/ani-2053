@@ -1,6 +1,6 @@
 Il y a 4 types de projet 
 StaticLib : 60
-TestLib : 60
+TestSuite : 60
 ConsoleApp : 98
 WindowedApp : 55
 Le total est de 273 projets.
