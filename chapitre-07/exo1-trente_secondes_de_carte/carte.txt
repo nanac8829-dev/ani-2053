@@ -1,0 +1,15 @@
+Module : NKMath
+
+D'après le projet : Les dépendances du module sont 'NKContainers', 'NKCore', 'NKMemory' et 'NKPlatform'.
+                    D'après ces dépendances, le module NKMath permet de stocker des valeurs numériques dans des conteneurs
+                    qui sont conservées dans la mémoire sur une plateforme donnée.
+
+Après l'en-tête : c:\Users\User\Downloads\Canvas-kit-Windows (1)\Canvas\include\NKMath
+                  Il montre: NkAngle.h, NkBuoyancy.h, NkColor.h, NkContactEvent.h, NkEarcut.h,
+                  NkEulerAngle.h, NkFucntions.h, NkIForceField.h, NkLegacySystem.h, NkMat.h, NkMath.h,
+                  NKMathApi.h, NKMathFormat.h, NkProjectedGrid.h, NkQuat.h, NkRandom.h, NkRange.h, NkRectangle.h,
+                  NkSegment.h, NkSIMD.h, NkSplashLaw.h, NkVec.h, NkWaterDisturbance.h, NkWaterSurface.h et 
+                  NkWetnessMap.h .
+
+Mes erreurs : Après avoir lu les includes, je constate que le module NkMath étudie les vecteus et les angles dans l'ensemble 
+              et les organise dans les fichiers qui l'utilisent ce qui n'a pas été mentionné dans les dépendances.
