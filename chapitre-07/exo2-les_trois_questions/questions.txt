@@ -1,0 +1,9 @@
+Ce qu'il possède : Une position, une rotation, des facteurs d'échelle, une origine, ainsi que des matrices de transformation et inverse en cache.
+
+Qui l'appelle : NkDrawable.h, NkSprite.h, NkLineShape.h, NkRectangleShape.h, NkShape.h et NKCanvas.lib matches.
+
+Ce qu'il promet : Gérer et configurer les propriétés spatiales d'un objet (position, rotation, échelle, origine) via des setters, des getters et
+                  des modificateurs incrémentaux (Move, Rotate, Scale), tout en calculant et fournissant efficacement la matrice de transformation 
+                  directe et son inverse grâce à un système de cache.
+
+Ce que je n'ai pas lu : J'ai du lire avant de répondre.
